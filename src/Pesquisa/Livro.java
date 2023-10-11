@@ -1,4 +1,4 @@
-package OperacoesBasicas.Pesquisa;
+package Pesquisa;
 
 public class Livro {
     private final String titulo;
